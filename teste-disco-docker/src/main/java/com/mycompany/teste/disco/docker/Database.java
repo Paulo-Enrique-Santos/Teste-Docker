@@ -17,8 +17,8 @@ public class Database {
         //CONEXÃO PARA MYSQL
         backupDataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");;
         backupDataSource.setUrl("jdbc:mysql://localhost:3306/miraclesolutions");
-        backupDataSource.setUsername("aluno");
-        backupDataSource.setPassword("sptech");
+        backupDataSource.setUsername("root");
+        backupDataSource.setPassword("urubu100");
         this.backup = new JdbcTemplate(backupDataSource);
         
         // CONEXÃO PARA AZURE
