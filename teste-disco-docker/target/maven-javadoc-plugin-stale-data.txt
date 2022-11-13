@@ -1,0 +1,74 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/paulo.filho/.m2/repository/com/github/britooo/looca-api/2.1.0/looca-api-2.1.0.jar;C:/Users/paulo.filho/.m2/repository/com/github/oshi/oshi-core/6.1.5/oshi-core-6.1.5.jar;C:/Users/paulo.filho/.m2/repository/net/java/dev/jna/jna/5.10.0/jna-5.10.0.jar;C:/Users/paulo.filho/.m2/repository/net/java/dev/jna/jna-platform/5.10.0/jna-platform-5.10.0.jar;C:/Users/paulo.filho/.m2/repository/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar;C:/Users/paulo.filho/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;C:/Users/paulo.filho/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:/Users/paulo.filho/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar;C:/Users/paulo.filho/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar;C:/Users/paulo.filho/.m2/repository/com/google/errorprone/error_prone_annotations/2.11.0/error_prone_annotations-2.11.0.jar;C:/Users/paulo.filho/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar;C:/Users/paulo.filho/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar;C:/Users/paulo.filho/.m2/repository/org/slf4j/slf4j-simple/1.7.30/slf4j-simple-1.7.30.jar;C:/Users/paulo.filho/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java-8.0.30.jar;C:/Users/paulo.filho/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar;C:/Users/paulo.filho/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/7.2.2.jre8/mssql-jdbc-7.2.2.jre8.jar;C:/Users/paulo.filho/.m2/repository/org/springframework/spring-jdbc/5.0.5.RELEASE/spring-jdbc-5.0.5.RELEASE.jar;C:/Users/paulo.filho/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar;C:/Users/paulo.filho/.m2/repository/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar;C:/Users/paulo.filho/.m2/repository/org/springframework/spring-jcl/5.0.5.RELEASE/spring-jcl-5.0.5.RELEASE.jar;C:/Users/paulo.filho/.m2/repository/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar;C:/Users/paulo.filho/.m2/repository/org/apache/commons/commons-dbcp2/2.5.0/commons-dbcp2-2.5.0.jar;C:/Users/paulo.filho/.m2/repository/org/apache/commons/commons-pool2/2.6.0/commons-pool2-2.6.0.jar;C:/Users/paulo.filho/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/paulo.filho/Desktop/Teste-Docker/teste-disco-docker/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/paulo.filho/Desktop/Teste-Docker/teste-disco-docker/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'teste-disco-docker 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'teste-disco-docker 1.0-SNAPSHOT API'
+com.mycompany.teste.disco.docker
+'C:/Users/paulo.filho/Desktop/Teste-Docker/teste-disco-docker/src/main/java/com/mycompany/teste/disco/docker/Database.java'
+'C:/Users/paulo.filho/Desktop/Teste-Docker/teste-disco-docker/src/main/java/com/mycompany/teste/disco/docker/Teste.java'
+C:\Users\paulo.filho\.m2\repository\com\github\britooo\looca-api\2.1.0\looca-api-2.1.0.jar = 1668257092719
+C:\Users\paulo.filho\.m2\repository\com\github\oshi\oshi-core\6.1.5\oshi-core-6.1.5.jar = 1668257103567
+C:\Users\paulo.filho\.m2\repository\net\java\dev\jna\jna\5.10.0\jna-5.10.0.jar = 1668257101325
+C:\Users\paulo.filho\.m2\repository\net\java\dev\jna\jna-platform\5.10.0\jna-platform-5.10.0.jar = 1668257103530
+C:\Users\paulo.filho\.m2\repository\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar = 1668257104116
+C:\Users\paulo.filho\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar = 1668257093338
+C:\Users\paulo.filho\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar = 1668257093864
+C:\Users\paulo.filho\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar = 1668257095882
+C:\Users\paulo.filho\.m2\repository\org\checkerframework\checker-qual\3.12.0\checker-qual-3.12.0.jar = 1668257106452
+C:\Users\paulo.filho\.m2\repository\com\google\errorprone\error_prone_annotations\2.11.0\error_prone_annotations-2.11.0.jar = 1668257103051
+C:\Users\paulo.filho\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar = 1668257104937
+C:\Users\paulo.filho\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar = 1668257105891
+C:\Users\paulo.filho\.m2\repository\org\slf4j\slf4j-simple\1.7.30\slf4j-simple-1.7.30.jar = 1668257105126
+C:\Users\paulo.filho\.m2\repository\mysql\mysql-connector-java\8.0.30\mysql-connector-java-8.0.30.jar = 1668352130519
+C:\Users\paulo.filho\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1668352132078
+C:\Users\paulo.filho\.m2\repository\com\microsoft\sqlserver\mssql-jdbc\7.2.2.jre8\mssql-jdbc-7.2.2.jre8.jar = 1668352131575
+C:\Users\paulo.filho\.m2\repository\org\springframework\spring-jdbc\5.0.5.RELEASE\spring-jdbc-5.0.5.RELEASE.jar = 1668352130006
+C:\Users\paulo.filho\.m2\repository\org\springframework\spring-beans\5.0.5.RELEASE\spring-beans-5.0.5.RELEASE.jar = 1668352131544
+C:\Users\paulo.filho\.m2\repository\org\springframework\spring-core\5.0.5.RELEASE\spring-core-5.0.5.RELEASE.jar = 1668352141070
+C:\Users\paulo.filho\.m2\repository\org\springframework\spring-jcl\5.0.5.RELEASE\spring-jcl-5.0.5.RELEASE.jar = 1668352132057
+C:\Users\paulo.filho\.m2\repository\org\springframework\spring-tx\5.0.5.RELEASE\spring-tx-5.0.5.RELEASE.jar = 1668352141647
+C:\Users\paulo.filho\.m2\repository\org\apache\commons\commons-dbcp2\2.5.0\commons-dbcp2-2.5.0.jar = 1668352135929
+C:\Users\paulo.filho\.m2\repository\org\apache\commons\commons-pool2\2.6.0\commons-pool2-2.6.0.jar = 1668352136034
+C:\Users\paulo.filho\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar = 1668352134415
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\src\main\java = 1668352792796
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\allclasses-index.html = 1668355781648
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\allpackages-index.html = 1668355781660
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\copy.svg = 1668355781802
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\element-list = 1668355781533
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\help-doc.html = 1668355781761
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\index-all.html = 1668355781724
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\index.html = 1668355781749
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\jquery-ui.overrides.css = 1668355781896
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\member-search-index.js = 1668355781697
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\module-search-index.js = 1668355781671
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\overview-tree.html = 1668355781627
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\package-search-index.js = 1668355781680
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\script.js = 1668355781790
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\search-page.js = 1668355781823
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\search.html = 1668355781738
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\search.js = 1668355781811
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\stylesheet.css = 1668355781778
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\tag-search-index.js = 1668355781705
+C:\Users\paulo.filho\Desktop\Teste-Docker\teste-disco-docker\target\apidocs\type-search-index.js = 1668355781688
