@@ -3,6 +3,8 @@ package com.mycompany.teste.disco.docker;
 public class Teste {
     public static void main(String[] args) {
         Database database = new Database();
+
+        System.out.println("Comecei Executar!");
         
         database.getConnection().update(
                 "INSERT INTO teste (dataTeste) VALUES (?)",
